@@ -1,0 +1,14 @@
+{
+  "dietary_restrictions": [
+    "Vegetarian"
+  ],
+  "email": "fbar@gmail.com",
+  "first_name": "foo",
+  "last_name": "bar",
+  "minor_status": true,
+  "organizer": false,
+  "other": "null",
+  "phone": 2374564095,
+  "shirt_size": "XS",
+  "university": "Other"
+}

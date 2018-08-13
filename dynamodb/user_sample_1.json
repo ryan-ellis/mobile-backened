@@ -1,0 +1,15 @@
+{
+  "dietary_restrictions": [
+    "Vegan",
+    "Nut Allergy"
+  ],
+  "email": "jsmith432@gmail.com",
+  "first_name": "John",
+  "last_name": "Smith",
+  "minor_status": false,
+  "organizer": true,
+  "other": "null",
+  "phone": 4076324985,
+  "shirt_size": "M",
+  "university": "University of Alaska, Fairbanks"
+}

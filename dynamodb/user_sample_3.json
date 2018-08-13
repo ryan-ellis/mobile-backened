@@ -1,0 +1,12 @@
+{
+  "dietary_restrictions": [],
+  "email": "jsmith@gmail.com",
+  "first_name": "Jane",
+  "last_name": "Smith",
+  "minor_status": true,
+  "organizer": false,
+  "other": "Will be arriving late.",
+  "phone": 1234567899,
+  "shirt_size": "S",
+  "university": "Other"
+}
